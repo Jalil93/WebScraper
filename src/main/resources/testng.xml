@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Default Suite" verbose="1" >
+    <test name="Webscraper com.searchutilities.tests.UtilitiesTest" >
+        <classes>
+            <class name="com.searchutilities.tests.UtilitiesTest"/>
+        </classes>
+    </test>
+</suite>
